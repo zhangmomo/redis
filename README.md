@@ -1,1 +1,1 @@
-# redis
+# redis单例应用
